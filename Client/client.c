@@ -341,4 +341,4 @@ void PrintXY(int x, int y, const char *format, ...){
 void error_handling(char* message){
     printf("%s\n", message);
     exit(1);
-}
+} 
