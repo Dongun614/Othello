@@ -238,7 +238,7 @@ int main(int argc, char* argv[]){
     sleep(1);
     printf(".\n");
     sleep(1);
-    printf("\033[36mBlue team %d\033[0m : \033[31m %d Red team \033[0m\n", blue_result, red_result);
+    printf("\033[36mBlue team %d\033[0m : \033[31m%d Red team \033[0m\n", blue_result, red_result);
     sleep(1);
     printf(".\n");
     sleep(1);
